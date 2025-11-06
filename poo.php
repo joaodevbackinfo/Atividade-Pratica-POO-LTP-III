@@ -1,4 +1,6 @@
 <?php
+// Atividade Referente a Disciplina de LTP III
+// Alunos: João Vítor Piagem Pereira e Ingrid Costa Sousa 
 
 abstract class Pessoa {
     protected $nome;
